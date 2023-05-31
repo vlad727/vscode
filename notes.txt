@@ -1,0 +1,1 @@
+Shift + Command + P > Install 'code' command in PATH command > then "code your-file.yaml" ### how to set up system to open files with vscode 
